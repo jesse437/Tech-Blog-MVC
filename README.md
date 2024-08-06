@@ -50,12 +50,12 @@ THEN I am able to view posts and comments but I am prompted to log in again befo
 
 # 4. Deployment
 
-https://github.com/jesse437/Tech-Blog-MVC
+## https://github.com/jesse437/Tech-Blog-MVC
 
 # 5. Visuals
 
 # 6. Collaborators
 
-[Jesus Ruiz Gutierrez](https://github.com/jesse437)
+## [Jesus Ruiz Gutierrez](https://github.com/jesse437)
 
 # 7. Technologies Used
