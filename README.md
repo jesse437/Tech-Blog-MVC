@@ -59,3 +59,13 @@ THEN I am able to view posts and comments but I am prompted to log in again befo
 ## [Jesus Ruiz Gutierrez](https://github.com/jesse437)
 
 # 7. Technologies Used
+
+- (MVC) Model-View-Controller
+- Express-API for controllers
+- Express-handlebars
+- PostgresSQL for Models
+- pg package 
+- Sequelize package
+- bcrypt package
+- dotenv package
+
