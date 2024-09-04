@@ -46,16 +46,31 @@ THEN I am able to view posts and comments but I am prompted to log in again befo
 
 # 3. How to use
 
-###
+### Open the terminal from the application on VS CODE and type in `npm install` followed by `npm run start` to render the application on the browser
 
 # 4. Deployment
 
-## https://github.com/jesse437/Tech-Blog-MVC
-
+```md
+ https://github.com/jesse437/Tech-Blog-MVC
+```
 # 5. Visuals
 
 # 6. Collaborators
 
-## [Jesus Ruiz Gutierrez](https://github.com/jesse437)
+```md
+[Jesus Ruiz Gutierrez](https://github.com/jesse437)
+```
 
 # 7. Technologies Used
+
+- Model View Controller (MVC)
+- express-handlebars package
+- pg
+- Sequelize
+- PostgresSQL
+- Express.js API
+- dotenv package
+- bcrypt package
+- express-session package
+- connect-seeion-sequelize package
+

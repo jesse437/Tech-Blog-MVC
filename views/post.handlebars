@@ -1,0 +1,25 @@
+<div class="text-center">
+  <h2>{{title}}</h2>
+  <p>{{body}}</p>
+  <p>{{user.name}}: {{format_date createdAt}}</p>
+
+  <p>
+    <a href="/" class=" btn btn-primary">More Posts</a>
+    <a href="/profile" class=" btn btn-primary">New Post</a>
+  </p>
+  <main class="'container container-fluid mt-5">
+    <form id="edit-comment-form">
+      <input class="comment-input" type="text" placeholder="Enter Comment here">
+      <input type="submit" class="btn btn-sm btn-danger"></input>
+    </form>
+  </main>
+  <h2 class="text-center">Comments</h2>
+  {{#each comments as |comment|}}
+      <div class="comments text-center">
+        <p class="body">{{body}}</p>
+        <p class="author">Posted by: {{user.name}}</p>
+      </div>
+  {{/each}}
+</div>
+
+<script src="/js/post.js"></script>
