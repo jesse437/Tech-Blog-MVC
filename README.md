@@ -55,6 +55,8 @@ THEN I am able to view posts and comments but I am prompted to log in again befo
 ```
 # 5. Visuals
 
+![alt text](<Screenshot 2024-09-05 at 10.03.28 PM.png>)
+
 # 6. Collaborators
 
 ```md
