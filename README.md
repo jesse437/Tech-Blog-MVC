@@ -2,7 +2,7 @@
 
 A full-stack, CMS-style blog platform where developers can publish posts, comment on each other's work, and manage their own content from a personal dashboard. Built with the Model-View-Controller pattern and server-side rendering.
 
-**Live demo:** [ADD LINK AFTER DEPLOYING — e.g. https://tech-blog-mvc.onrender.com]
+**Live demo:** [ADD LINK AFTER DEPLOYING — https://tech-blog-mvc-2i4i.onrender.com]
 
 ![Tech Blog MVC homepage](<Screenshot 2024-09-05 at 10.03.28 PM.png>)
 
